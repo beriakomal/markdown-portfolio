@@ -1,6 +1,3 @@
----
-layout: default
----
+# Komal Beria
 
-{% include 01-name.md %}
 
